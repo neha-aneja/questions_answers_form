@@ -20,7 +20,7 @@ const ReviewPage = () => {
             </div>
           ))}
           <Link to='/' className='link-underline-primary'>
-            Back to Forms Builder
+            Back
           </Link>
         </div>
       </div>
